@@ -1,0 +1,1 @@
+My 1st fileHi this is myfile1.txtUse only w-write method

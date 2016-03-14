@@ -1,0 +1,1 @@
+My Read FileHi this is myfile.txtUse w-write and a-append methods

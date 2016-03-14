@@ -1,0 +1,30 @@
+<anna>
+	<college>Univ-Villupuram
+		<code>4024</code>
+		<city>villupuram</city>
+			<dept>Dept_Details
+				<cse>cse-25</cse>
+				<it>it-33</it>
+				<mech>mech-104</mech>
+			</dept>
+	</college>
+	<college>Univ-Chennai
+		<code>4025</code>
+		<city>chennai</city>
+			<dept>Dept_Details
+				<cse>cse-26</cse>
+				<it>it-34</it>
+				<mech>mech-105</mech>
+			</dept>
+	</college>
+	<college>Univ-Madurai
+		<code>4027</code>
+		<city>madurai</city>
+			<dept>Dept_Details
+				<cse>cse-27</cse>
+				<it>it-35</it>
+				<mech>mech-106</mech>
+			</dept>
+	</college>	
+	
+</anna>

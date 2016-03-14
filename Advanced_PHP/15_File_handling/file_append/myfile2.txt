@@ -1,0 +1,1 @@
+My 2nd FileHi this is myfile2.txtUse w-write and a-append methodsMy 2nd FileHi this is myfile2.txtUse w-write and a-append methods

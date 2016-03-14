@@ -1,0 +1,9 @@
+Instruction :
+
+1.home.php used to only included php file
+   that works to find server variable of given document
+
+2.run page1.php first 
+  then,click submit you will see page 1 server value
+
+3.it also the page2.php
