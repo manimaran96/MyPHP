@@ -1,13 +1,15 @@
-Developer 
+# My PHP Programs
 
-Manimaran.K
+##Developer
+>###*Manimaran.K*
 
-About me:
+##My Blog
+>[https://manimaran96.wordpress.com](https://manimaran96.wordpress.com) 
 
-Manimaran.K 
-BE-CSE
-9600789681
-manimaraninam1027@gmail.com
-https://www.facebook.com/manimaran.cse.1
-https://twitter.com/Manimaran_lpt 
 
+##**About me**
+        Manimaran.K
+        Computer Science Engineering
+        manimaraninam1027@gmail.com
+        [Facebook](https://www.facebook.com/manimaran.cse.1)
+        [Twitter](https://twitter.com/Manimaran_lpt)
